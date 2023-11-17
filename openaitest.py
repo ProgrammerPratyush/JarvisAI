@@ -19,6 +19,6 @@ response = openai.Completion.create(
   frequency_penalty=0,
   presence_penalty=0
 )
-
+#Hi 
 #printing the response only, not generating here now
 print(response)
